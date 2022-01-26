@@ -1,0 +1,49 @@
+<html>
+	<title>Site présentation Puissance 4</title>
+	<link rel="stylesheet" href="Style.css"/>
+	
+<head>
+		<h1><center>Site de Présentation du Projet "Puissancce 4"<br/>
+		<img src=Puissance4.jpeg height=300 width=304></h1>
+		
+</head>
+
+<body>
+	<p>Problématique :</b></p>
+	<text>Pour ce projet nous avons cherché a codé un puissance 4 en python afin d'y jouer sur notre ordinareur.<br/>
+	Nous avons aussi créer un site afin de présenter le projet et détaillé notre code.<br/></text>
+	
+	<p>Présentation du Projet<br/></p>
+	<text>Afin de réaliser ce projet nous étions une équipe de 3 composé de : Mountaga, Alexis et Jules<br/>
+	L'objectif de ce projet était de s'entrainer à coder en python et s'entrainer aussi à coder en html et CSS.
+	Nos jetons sont caractérisé par des signes, les jetons jaunes sont caractérisé par le signe "x"<br/>
+	les jetons rouges sont caractérisé par le signe "o". Notre tableau est caractérisé par une<br/>
+	liste dans une liste. On a une variable 
+	
+	
+	
+	<a href="Fonction 1.html"><b>La 1er fonction<br/></a>
+	<a href="Fonction 2.html"><b>La 2nd fonction<br/></a>
+	<a href="Fonction 3.html"><b>La 3ème fonction<br/></a>
+	<a href="Fonction 4.html"><b>La 4ème fonction<br/></a>
+	<a href="Fonction 5.html"><b>La 5ème fonction<br/></a>
+	<a href="Fonction 6.html"><b>La 6ème et 7ème fonction<br/></a>
+	<a href="Fonction 8.html"><b>La 8ème fonction<br/></a>
+	<a href="Fonction 9.html"><b>La 9ème fonction<br/></a>
+	
+	<p>Explication fonction principale<br/></p>
+   la fonction play prend en argument joueur_1 et joueur_2 et leur attribue un symbole .<br/>
+   la boucle while est soumise a la condition victoire , si victoir n'est pas egale a 1 la boucle continue .<br/>
+   Si le temp , qui represente le tour des joueur est pair alors le joueur 2 joue a la fin du tour du joueur 2 le temp prend +1 et devient donc impair (car la division euclidienne par 2 n'est pas possible )<br/>
+   on demande au joueur qui joue de donner un nombre entre 1 et 7 ce qui correspond au nombre de colonne du tableau.puis le tour passe.<br/>
+
+
+	
+	
+	<p>Méthode de travail:<br/></p>
+	<text>Pour aboutir à ce projet, nous avons des moyens de communication (ex:Discord,Insta...).<br/>
+	Grace à cela nous avons pu avancer sur notre projet,et résoudre plusieur problèmes. On a réparti le travail<br/>
+	chaque personne travail sur le domaine ou il était le plus qualifié et le plus perfomant pour <br/>
+	que notre projet sois le plus compler possible.
+	<p/>
+    		

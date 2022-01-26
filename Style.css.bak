@@ -1,0 +1,29 @@
+body {color: purple;
+	background-color: white;
+	font-size: 18px;
+}
+
+h1 {color:red;
+	text-align: center;
+	font-size: 60px;
+}
+
+p {color:light-blue;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+a {font-weight: bold;
+	color: orange;
+}
+
+a:visited {font-weight: bold;
+	color: green;
+}
+
+table {border: 2px solid black;
+	margin: auto;
+	text-align: center;
+	color: blue;
+	font-size: 25px;
+}

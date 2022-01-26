@@ -1,0 +1,17 @@
+<html>
+    <title>Page expliquant la 6ème et 7ème fonction</title>
+    <link rel="stylesheet" href="Style.css"/>
+<head>
+    <h1>8ème, la fonctions fourre-tout de toute les fonctions précedente hors la première.</h1>
+
+</head>
+    <text>
+    Cette fonction prend en compte les argument : </br>
+    Symbole,</br>
+    tableau,</br>
+    victoire,</br>
+    Cette fonctions est un énorme fourre-tout des fonction de vérification.</br>
+    Dedans on ne fait que regrouper les différentes fonction afin de rendre le code plus propre.</br>
+    Dans le cas où une fonction définie victoire à 1 alors celle-ci sert à transmettre cette information à la fonction principale.</br></br>
+
+    <a href="Puissance 4.html"><b>Revenire à la page principale<br/></a>
